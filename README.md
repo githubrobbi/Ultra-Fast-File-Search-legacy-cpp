@@ -1,7 +1,7 @@
 # Ultra Fast File Search (Legacy C++)
 
 > Legacy C++ predecessor to the current Rust UFFS engine.  
-> Active Rust development: https://github.com/skyllc-ai/UltraFastFileSearch  
+> Active development: https://uffs.io (source: https://github.com/skyllc-ai/UltraFastFileSearch)  
 > Preserved for historical context, comparison, and regression reference.
 
 ------
